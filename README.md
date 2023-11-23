@@ -26,6 +26,6 @@ The student team members with their roll numbers are as follows :
 |   4	      |  20201CSE0166	     | SAMSON S        |    CSE-G25           |
 
 
-This project carries 200 marks in total for each student (considered like a course) ; splitted across 4 reviews.
+This project carries 200 marks in total for each student (considered as a course) ; splitted across 4 reviews.
 
 
