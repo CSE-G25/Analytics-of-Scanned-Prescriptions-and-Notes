@@ -1,7 +1,8 @@
 # Analytics-of-Scanned-Prescriptions-and-Notes
-A general introduction to the project :
 
 Hello Everyone !
+
+A brief introduction to the project :
 
 - This project group involves university students working for their final year project.
 - Project group code - CSE-G25
